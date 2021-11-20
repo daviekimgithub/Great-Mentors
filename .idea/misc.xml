@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GreatMentors/app/src/main/res/drawable/all_round_corners_light_greyish.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GreatMentors/app/src/main/res/drawable/all_round_corners_white.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GreatMentors/app/src/main/res/drawable/all_round_grey_strole.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GreatMentors/app/src/main/res/drawable/all_rounded_corner_black.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GreatMentors/app/src/main/res/drawable/all_rounded_corner_orange.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GreatMentors/app/src/main/res/drawable/all_rounded_top_white.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GreatMentors/app/src/main/res/drawable/bottom_home.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GreatMentors/app/src/main/res/drawable/top_home_activity.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GreatMentors/app/src/main/res/drawable/top_rounded_corners.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GreatMentors/app/src/main/res/layout/activity_find_mentor.xml" value="0.22" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GreatMentors/app/src/main/res/layout/activity_main.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GreatMentors/app/src/main/res/layout/activity_search.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

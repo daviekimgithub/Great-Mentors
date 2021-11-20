@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Great Mentors</string>
+    <string name="find_your_mentor_as_fast_as_possible">find your mentor as fast as possible on a single click</string>
+    <string name="home_intro">now to get a mentor is so easy and to get one has become so easy just clik here for more</string>
+    <string name="meditation">Meditation</string>
+    <string name="david_kimani">David Kimani</string>
+    <string name="what_really_meditation_is">Meditation is considered a type of mind-body complementary medicine which can produce a deep state of relaxation and a tranquil mind.</string>
+    <string name="course_details">Course Details</string>
+    <string name="the_webinar_starts_with_medit">The webinar starts with meditation and there is a question and answer section later in the course</string>
+</resources>
